@@ -122,7 +122,7 @@ Get fast delivery, excellent customer support, and certified industrial-grade pe
 
 ## 📩 Contact & Support
 
-For datasheets, compatibility with specific **SFP modules**, or buying assistance, contact the **VERSITRON sales team** or visit: [www.versitron.com](https://www.versitron.com/products/sf70660-6-port-unmanaged-industrial-switch)
+For datasheets, compatibility with specific **SFP modules**, or buying assistance, contact the **VERSITRON sales team** or visit: [www.versitron.com](https://www.versitron.com/)
 
 ---
 
